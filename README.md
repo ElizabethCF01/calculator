@@ -7,22 +7,22 @@ https://kotlinlang.org/
 
 # Caracteristicas
 
-\*Operaciones simples (Suma, resta, multiplicación, etc)
+*Operaciones simples (Suma, resta, multiplicación, etc)
 
-\*Operaciones con variables (Guardado, borrado, Mostrado)
+*Operaciones con variables (Guardado, borrado, Mostrado)
 
-\*Operaciones con binarios (conversión, suma, etc)
+*Operaciones con binarios (conversión, suma, etc)
 
-\*Borrado total y parcial de display
+*Borrado total y parcial de display
 
-\*Guardado de estado al cambiar de posición
+*Guardado de estado al cambiar de posición
 
 # integrantes 402
 
-\*Enielys Hernández
+*Enielys Hernández
 
-\*Jorge L Castilla
+*Jorge L Castilla
 
-\*Kevin Galvez
+*Kevin Galvez
 
-\*Elizabeth Calzadilla
+*Elizabeth Calzadilla
